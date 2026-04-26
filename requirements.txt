@@ -1,0 +1,30 @@
+# PyTorch must be installed separately - see README
+# pip install torch==2.7.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+# Core
+numpy
+opencv-python
+rasterio
+
+# HuggingFace
+datasets
+huggingface_hub
+
+# tacoreader (legacy v1 needed for tacofoundation: format)
+tacoreader<1.0
+
+# Utilities
+tqdm
+matplotlib
+Pillow
+python-dotenv
+
+# Jupyter
+jupyter
+ipykernel
+
+transformers
+timm
+
+torchmetrics
+scipy

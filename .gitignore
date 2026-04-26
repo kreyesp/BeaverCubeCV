@@ -1,0 +1,6 @@
+venv/
+cloudsen12_local/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
